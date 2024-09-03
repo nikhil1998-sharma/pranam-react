@@ -1,21 +1,9 @@
 # Pranam React🚀
 
+## JSX
 
-## Parcel
-- Dev Build 
-- Local Server
-- HMR - Hot Module Replacement
-- File Watching Algorithm - written in C++
-- Caching - Faster Build
-- Image Optimization 
-- Minification 
-- Bundling 
-- File Compression 
-- Consistent Hashing
-- Code Splitting 
-- Differential Bundling - to support older browsers
-- Diagnostic 
-- Error Handling 
-- HTTPs
-- Tree Shaking - remove unused code 
-- Different dev and prod bundels
+- JSX is not "HTML inside JavaScript"
+- You can call it "HTML like Syntax"
+- JSX is not part of React, they both are different
+- JS Engine will not understand JSX, parcel is working behind the scene
+- JSX (transpiled before it reaches to the JS Engine) - Parcel - Babel
