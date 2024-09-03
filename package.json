@@ -1,0 +1,27 @@
+{
+  "name": "pranam-react",
+  "version": "1.0.0",
+  "description": "This is Pranam React by Nikhil Sharma",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil1998-sharma/pranam-react.git"
+  },
+  "author": "Nikhil Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhil1998-sharma/pranam-react/issues"
+  },
+  "homepage": "https://github.com/nikhil1998-sharma/pranam-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
